@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1">
+  <title>PC3 Auditoria Rclone</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      max-width: 800px;
+      margin: 60px auto;
+      padding: 0 24px;
+      line-height: 1.7;
+      color: #243044;
+      background: #f8fafc;
+    }
+    h1 { color: #174d83; }
+    a { color: #1769aa; }
+    footer {
+      margin-top: 50px;
+      border-top: 1px solid #ccc;
+      padding-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>PC3 Auditoria Rclone</h1>
+
+  <p>
+    Proyecto personal de integración entre
+    rclone y Google Drive, utilizado para
+    auditoría, recuperación y respaldo de
+    archivos propios.
+  </p>
+
+  <h2>Finalidad</h2>
+  <p>
+    Esta aplicación OAuth permite autorizar
+    a rclone para acceder a Google Drive
+    según los permisos concedidos por
+    el titular de la cuenta.
+  </p>
+
+  <h2>Uso personal</h2>
+  <p>
+    La integración está destinada al uso
+    privado de su propietario.
+    No se ofrece como servicio público
+    ni permite registrar usuarios externos.
+  </p>
+
+  <h2>Software utilizado</h2>
+  <p>
+    rclone es una herramienta de código
+    abierto para gestionar almacenamiento
+    remoto.
+  </p>
+
+  <p>
+    <a href="https://rclone.org/">
+      Sitio oficial de rclone
+    </a>
+  </p>
+
+  <footer>
+    <a href="privacy.html">
+      Política de privacidad
+    </a>
+  </footer>
+</body>
+</html>
